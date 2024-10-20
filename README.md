@@ -12,9 +12,6 @@ Farm Buddy is a farmer-to-customer,B2B,B2C,C2C online marketplace platform that 
 •	CSS<br>
 •	Bootstrap<br>
 •	JavaScript<br>
-<h3>Backend</h3><br>
-•	Google FireBase<br>
-•	Amd Instance(t2d Server)<br>
 <h3>APIs</h3>
 •	Video SDK<br>
 •	Open Weather<br>
@@ -24,7 +21,6 @@ Farm Buddy is a farmer-to-customer,B2B,B2C,C2C online marketplace platform that 
 The chatbot is designed to assist customers in finding answers to Frequently Asked Questions<br>
 <h3>Tech Stack Used</h3>
 •	Github<br>
-•	Discord<br>
 •	Trello<br>
 •	Unsplash<br>
 •	GeeksforGeeks<br>
